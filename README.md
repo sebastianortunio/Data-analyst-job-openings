@@ -3,7 +3,7 @@
 
 This project looks at job ads for Data Analyst jobs using Python. The goal is to learn about the job market, such as popular job titles, where most jobs are, what skills are needed, and how much money the jobs pay.
 
-The dataset has 2,253 job and 15 columns.
+The dataset has 2,253 rows and 15 columns.
 
 We cleaned the data by working with each columns' needs.
 
