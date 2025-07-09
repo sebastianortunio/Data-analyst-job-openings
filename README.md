@@ -86,7 +86,7 @@ The project shows:
 
 - The "Data Analyst" title dominates the job market with 405 job openings. Out of 2,252 total job listings, most job titles specify particular skills or requirements that make each role unique.
 
-- Even though many jobs have the same title, each one may ask for different skills. The most needed skills are SQL and Excel, followed by Python and Tableau. Tableau is more requested than Power BI for data visualization. 
+- Even though many jobs have the same title, each one may ask for different skills. The most needed skills are SQL and Excel, followed by Python, R and Tableau. Tableau is more requested than Power BI for data visualization. 
 
 - Most average salaries are between 50k  and  80k. A high company rating does not always mean a higher salary.
 
