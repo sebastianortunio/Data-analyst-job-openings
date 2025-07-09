@@ -5,7 +5,7 @@ This project looks at job ads for Data Analyst jobs using Python. The goal is to
 
 The dataset has 2,253 rows and 15 columns.
 
-We cleaned the data by working with each columns' needs.
+I cleaned the data by working with each columns' needs.
 
 The project shows:
 
